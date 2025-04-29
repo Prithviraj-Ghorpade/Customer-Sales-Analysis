@@ -1,3 +1,4 @@
+/*Shows Yearly Revenue*/
 SELECT strftime('%Y', order_date) AS order_year, SUM(order_amount) AS total_revenue
 FROM customer_orders
 WHERE order_status = 'delivered'
