@@ -1,3 +1,4 @@
+/*Which Payment Methods Are Failing More Often*/
 SELECT 
     payment_method,
     COUNT(*) AS failed_payments
