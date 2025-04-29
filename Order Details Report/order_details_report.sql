@@ -1,3 +1,4 @@
+/*Order Details Report*/
 SELECT o.customer_id, o.order_id, p.payment_id, o.order_status, o.order_date, p.payment_date, 
 CASE 
     WHEN JULIANDAY(p.payment_date) > JULIANDAY(o.order_date)
