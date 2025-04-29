@@ -70,7 +70,7 @@ This project is a comprehensive SQL-based analysis of an e-commerce business, fo
 
 For any questions or feedback, feel free to reach out:
 
-**Prithviraj Ghorpade**
-[LinkedIn]((https://www.linkedin.com/in/prithviraj-ghorpade-2379562b0/))
-[Email](mailto:prithvighorpade653@gmail.com)
+- **Prithviraj Ghorpade**
+- [LinkedIn]([(https://www.linkedin.com/in/prithviraj-ghorpade-2379562b0/)])
+- [Email](mailto:prithvighorpade653@gmail.com)
 
