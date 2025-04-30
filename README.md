@@ -55,6 +55,9 @@ This project is a comprehensive SQL-based analysis of an e-commerce business, fo
 - ⚠️ Detection of payment failure trends for process optimization.
 - 📦 Deep dive into order fulfillment performance and reporting.
 - 📈 The visualization shows retention rates are improving, with no major drop in active customers.
+  
+  <img src="Customer%20Retention%20Analysis/customer_retention_analysis.png" alt="Customer Retention Chart" width="500"/>
+  
 ---
 
 ## ⚙️ Technologies Used
